@@ -1,0 +1,10 @@
+.card {
+  border: 1px solid #646cff;
+  padding: 16px;
+  margin: 12px 0;
+  border-radius: 8px;
+  background-image: url('../../assets/react.png');
+  background-size: 40px;
+  background-repeat: no-repeat;
+  background-position: right bottom;
+}
